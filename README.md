@@ -5,7 +5,7 @@ Create React App con styled components.
 ## Para empezar
 
 ```bash
-    git clone https://github.com/Nikodermus/a1-task.git
+    git clone https://github.com/Yotfil/challenge-merqueo.git
     cd challenge-merqueo
     npm install
 ```
