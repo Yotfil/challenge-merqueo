@@ -15,3 +15,10 @@ Create React App con styled components.
 puedes correrlo con `npm start` y abrir [http://localhost:3000](http://localhost:3000) para verlo en el navegador.
 
 
+## Criterios
+
+### React
+
+Para desarrollar el proyecto decidí hacerlo en react, al ser una librería que permite controlar el estado de la data y que con su DOM virtual permite el renderizado más rápido. 
+
+        
