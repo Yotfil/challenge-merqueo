@@ -26,7 +26,7 @@ const ProductCard = ({product}) => {
       <img src={product.image} alt={`Imagen de ${product.name}`} />
       <Detail>
         <ProductName>{product.name}</ProductName>
-        <Price>{new Intl.NumberFormat("es-CO").format(product.price)}</Price>
+        <Price>$ {new Intl.NumberFormat("es-CO").format(product.price)}</Price>
         {
           quantityProduct > 0 ?
             <CounterProduct
